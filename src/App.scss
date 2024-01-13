@@ -1,0 +1,10 @@
+#WheelOfLife {
+  .wol-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  #polar-area-chart {
+    height: 500px;
+  }
+}
